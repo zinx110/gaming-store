@@ -51,7 +51,7 @@ const ModalCarousel = ({ data }: { data: any }) => {
         <div className="w-full h-full relative  overflow-hidden">
           <LeftArrowButton
             place="left"
-            img={"/assets/arrowleft.svg"}
+            img={"/assets/arrowLeft.svg"}
             onClick={() => {
               arrowClicked("left");
             }}
