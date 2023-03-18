@@ -39,7 +39,7 @@ const NavLink = ({ nav }: prop) => (
 
 const navs = [
   { name: "Profile", link: "/profile", img: "/assets/profile.svg" },
-  { name: "Search", link: "/search", img: "/assets/Search.svg" },
-  { name: "Favorite", link: "/favorite", img: "/assets/Favorite.svg" },
-  { name: "Balance", link: "/balance", img: "/assets/Balance.svg" },
+  { name: "Search", link: "/search", img: "/assets/search.svg" },
+  { name: "Favorite", link: "/favorite", img: "/assets/favorite.svg" },
+  { name: "Balance", link: "/balance", img: "/assets/balance.svg" },
 ];
